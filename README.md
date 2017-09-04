@@ -11,12 +11,6 @@
 $ npm install --global alfred-xopen
 ```
 
-or
-
-```
-$ yarn global add alfred-xopen
-```
-
 
 *Requires the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 *Requires that [xopen](https://github.com/paulomendes/xopen) is installed.*
