@@ -19,12 +19,6 @@ $ npm install --global alfred-xopen
 
 In Alfred, type `xopen`, press <kbd>Enter</kbd>, and then start writing a Xcode project name. If you select the `.xcodeproj` but a `.xcworkspace` is avaliable the workspace will be opened so you don't have to worry!
 
-
-## Tip
-
-The theme in the screenshot is [alfred-simple](https://github.com/sindresorhus/alfred-simple).
-
-
 ## Related
 
 - [alfred-xcode](https://github.com/sindresorhus/alfred-xcode) - Alfred 3 workflow to open Xcode projects, workspaces, and playgrounds
